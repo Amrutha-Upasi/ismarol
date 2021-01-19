@@ -1,4 +1,4 @@
-## School Website Created by using Drupal 8 (Site Building)
+## School Website Created by Using Drupal 8 (Site Building)
 1. Installed drupal 8.8.5 
 2. Installed admin Tool bar to use admin tool bar enabled the module
 3. Installed conference lite theme  and added theme slogan and logo in the site settings
