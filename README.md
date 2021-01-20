@@ -1,8 +1,8 @@
 ## School Website Created by Using Drupal 8 (Site Building)
-1. Installed drupal 8.8.5 
-2. Installed admin Tool bar to use admin tool bar enabled the module
-3. Installed conference lite theme  and added theme slogan and logo in the site settings
-4. To create banner slide show on the front page installed views slideshow module and enabled it 
+1. Installed drupal 8.8.5.
+2. Installed admin Tool bar to use administration menu.
+3. Installed conference lite theme  and added theme slogan and logo in the site settings.
+4. To create banner slide show on the front page installed views slideshow module and enabled it. 
 5.  In the root folder create libraries folder--> name it (jquery.cycle) -->( add file)jquery.cycle.all (jquery plugin for slideshow)
 6. To create responsive slide show installed flexslider module and library and enabled it
 -->  To create responsive slideshow on the front page
