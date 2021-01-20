@@ -43,7 +43,7 @@
      3. In the manage display  section select the  text filed settings to map
      
 11. Social media Icons
-    Installed Floating social icons module to create social media icons
+   --> Installed Floating social icons module to create social media icons and placed in the block
  <img src ="img.PNG" >
  <a href = "https://www.ismarol.org">Live Preview</a>
 
