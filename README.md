@@ -41,6 +41,9 @@
      1. Installed simple google map
      2. Added text plain field to the block type
      3. In the manage display  section select the  text filed settings to map
+     
+11. Social media Icons
+    Installed Floating social icons module to create social media icons
  <img src ="img.PNG" >
  <a href = "https://www.ismarol.org">Live Preview</a>
 
