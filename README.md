@@ -42,8 +42,13 @@
      2. Added text plain field to the block type
      3. In the manage display  section select the  text filed settings to map
      
-11. Social media Icons
-   --> Installed Floating social icons module to create social media icons and placed in the block
+11. Social media Icons<br>
+     Installed Floating social icons module to create social media icons and placed in the block
+    
+12. Media Gallery<br>
+     Installed media gallery module to create image and video gallery
+
+
  <img src ="img.PNG" >
  <a href = "https://www.ismarol.org">Live Preview</a>
 
